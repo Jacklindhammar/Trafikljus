@@ -1,0 +1,76 @@
+* {
+    background-color: grey;
+}
+
+.box {
+    height: 710px;
+    width: 250px;
+    background-color: white;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin: auto;
+}
+
+.redbox {
+    height: 210px;
+    width: 230px;
+    background-color: red;
+    border-style: solid;
+    border-width: 10px;
+    border-color: darkred;
+
+
+}
+
+.boxinred {
+    width: 230px;
+    height: 110px;
+    background-color: white;
+    margin-top: 100px;
+    background:rgba(255,255,255, 0.5);
+}
+
+.yellowbox {
+    height: 210px;
+    width: 230px;
+    background-color: yellow;
+    border-style: solid;
+    border-width: 10px;
+    border-color: orange;
+    margin-top: 10px;
+
+}
+
+.boxinyellow {
+    width: 115px;
+    height: 110px;
+    background-color: white;
+    margin-top: 100px;
+    background:rgba(255,255,255, 0.5);
+    margin-left: 115px;
+
+}
+
+.greenbox {
+
+    height: 210px;
+    width: 230px;
+    background-color: green;
+    border-style: solid;
+    border-width: 10px;
+    border-color: darkgreen;
+    margin-top: 10px;
+
+
+}
+
+.boxingreen {
+    width: 115px;
+    height: 110px;
+    background-color: white;
+    margin-top: 100px;
+    background:rgba(255,255,255, 0.5);
+    margin-right: 115px;
+
+}
